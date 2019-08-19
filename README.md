@@ -1,6 +1,3 @@
-# digitalagency
-Digital Agency
-
 # Digital Agency Website
 
 
